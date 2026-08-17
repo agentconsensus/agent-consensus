@@ -1,0 +1,5 @@
+schema_version: 1
+organization: me
+repository: agent-consensus
+server_url: http://127.0.0.1:8080
+created_at: 2026-08-11T09:25:49.6835412Z

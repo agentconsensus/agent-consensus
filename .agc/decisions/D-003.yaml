@@ -1,0 +1,13 @@
+schema_version: 1
+id: D-003
+uid: 71e8f4f9-e39b-4239-b807-b68f91827909
+revision: 1
+title: 新的代码和功能不再使用pending_activation user
+statement: 新的代码和功能不再使用pending_activation user
+scope:
+  - all
+owner: ""
+status: active
+created_at: 2026-08-11T09:31:55.5148553Z
+updated_at: 2026-08-12T02:02:28.7751175Z
+content_hash: sha256:1a80a7eeac75aa00ce495b2d9b3129c8b4f4ec28381e3d81cb539fe60e07408d
